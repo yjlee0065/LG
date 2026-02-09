@@ -45,11 +45,11 @@
 * **Pain Point**: 특정 소음이나 관리의 번거로움에 대한 언급 패턴 분석을 통해 개선점 도출
 
 ## 5. 분석 결과 시각화
+
 | 워드클라우드 (WordCloud) | 키워드 네트워크 분석 (NetworkX) | AI vs 일반 스타일러 비교 분석 |
-| :---: | :---: | :---:|
-| <img width="790" height="423" alt="wordcloud_styler" src="https://github.com/user-attachments/assets/e9bbad96-310a-4c75-929e-b39f6805e958" />
- | <img width="1182" height="1175" alt="ai_vs_gen_styler" src="https://github.com/user-attachments/assets/c424d10b-9dbd-408d-820e-a8f028878661" /> | |
-| *스타일러 주요 키워드 간의 연관성 분석 결과* | *사용자 언급 빈도 기반 핵심 키워드* |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/e9bbad96-310a-4c75-929e-b39f6805e958" width="300" /> | <img src="https://github.com/user-attachments/assets/c424d10b-9dbd-408d-820e-a8f028878661" width="300" /> | 아직 이미지가 없습니다. |
+| *사용자 언급 빈도 기반 핵심 키워드* | *스타일러 주요 키워드 간의 연관성 분석 결과* | *모델별 감성어 및 키워드 점유율 비교* |
 
 ---
 
