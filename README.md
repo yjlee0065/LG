@@ -21,7 +21,7 @@
 * **Environment**: `Jupyter Notebook`
 * **Library**:
     - **Crawling**: `Selenium`, `BeautifulSoup4`, `webdriver_manager`
-    - **NLP**: `Konlpy(Okt)`, `re` (정규표현식 전처리)
+    - **NLP**: `Konlpy(Okt)`, `re`
     - **Analysis**: `Pandas`, `Numpy`, `NLTK (N-gram)`
     - **Visualization**: `Matplotlib`, `Seaborn`, `WordCloud`, `NetworkX`
 
@@ -32,12 +32,12 @@
     - **구조 분석**: 블로그의 `iframe` 구조 내 실제 본문 주소를 파싱하여 데이터 누락 최소화
     - **안정성 확보**: `UnexpectedAlertPresentException` 예외 처리 및 `implicitly_wait`를 통한 안정적인 수집 환경 구축
 * **데이터 전처리**: 
-    - 홍보/판매/단순 질문글 등 노이즈 데이터 제거 (300자 이하 및 특정 패턴 필터링)
-    - 가전 전문 용어를 고려한 맞춤형 불용어(Stopwords) 정의
+    - 홍보/판매/단순 질문글 등 노이즈 데이터 제거
+    - 맞춤형 불용어(Stopwords) 정의
 
 ### 2) 데이터 분석 기법
 * **빈도 및 N-gram 분석**: 연도별 브랜드 점유율 비교 및 '살균', '스팀' 등 핵심 기능의 감성 맥락 파악
-* **네트워크 분석**: `NetworkX`를 활용하여 키워드 간 상관관계를 시각화하고 사용자 이용 행태 군집화 (예: '아기옷'-'살균', '패딩'-'볼륨복원' 등)
+* **네트워크 분석**: `NetworkX`를 활용하여 키워드 간 상관관계를 시각화하고 사용자 이용 시나리오 분석
 
 ## 4. 핵심 인사이트 (의류관리기 중심)
 * **사용자 시나리오 도출**: '패딩 건조', '아기옷 살균', '요가복 관리' 등 특정 소재와 연결된 전용 코스에 대한 강력한 니즈 확인
