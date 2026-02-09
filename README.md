@@ -48,7 +48,7 @@
 
 | 워드클라우드 (WordCloud) | 키워드 네트워크 분석 (NetworkX) | AI vs 일반 스타일러 비교 분석 |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/e9bbad96-310a-4c75-929e-b39f6805e958" width="300" /> | <img width="790" height="423" alt="wordcloud_styler" src="https://github.com/user-attachments/assets/4da040af-3476-4eeb-a830-51896e4f8012" /> | <img src="https://github.com/user-attachments/assets/c424d10b-9dbd-408d-820e-a8f028878661" width="300" /> |
+| <img src="https://github.com/user-attachments/assets/e9bbad96-310a-4c75-929e-b39f6805e958" width="300" /> | <img src="https://github.com/user-attachments/assets/a3135571-b4b7-453e-84cf-26e4a9a99a2e" width="300" /> | <img src="https://github.com/user-attachments/assets/c424d10b-9dbd-408d-820e-a8f028878661" width="300" /> |
 | *사용자 언급 빈도 기반 핵심 키워드* | *스타일러의 단점 키워드 연관성 분석 결과* | *모델별 감성어 및 키워드 점유율 비교* |
 
 ---
