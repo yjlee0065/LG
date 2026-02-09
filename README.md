@@ -47,7 +47,7 @@
 ## 5. 분석 결과 시각화
 | 워드클라우드 (WordCloud) | 키워드 네트워크 분석 (NetworkX) | AI vs 일반 스타일러 비교 분석 |
 | :---: | :---: | :---:|
-| ![Network Graph]([<img width="1182" height="1175" alt="ai_vs_gen_styler" src="https://github.com/user-attachments/assets/c424d10b-9dbd-408d-820e-a8f028878661" />]) | ![WordCloud]([여기에_이미지_경로_입력]) |
+| ([<img width="1182" height="1175" alt="ai_vs_gen_styler" src="https://github.com/user-attachments/assets/c424d10b-9dbd-408d-820e-a8f028878661" />]) | ![WordCloud]([여기에_이미지_경로_입력]) |
 | *스타일러 주요 키워드 간의 연관성 분석 결과* | *사용자 언급 빈도 기반 핵심 키워드* |
 
 ---
