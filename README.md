@@ -1,4 +1,4 @@
-# [Project] LG 가전 소비자 분석 및 신규 시나리오 발굴
+# LG 가전 소비자 분석 및 신규 시나리오 발굴
 > **LG 가전(의류관리기/청소기) 사용자 리뷰 데이터 분석을 통한 UX 개선 및 AI 기능 제안**
 
 본 프로젝트는 네이버 카페, 블로그, 유튜브 등 다양한 채널에서 직접 수집한 소비자 리뷰를 바탕으로, 실제 사용자의 이용 패턴을 분석하고 제품에 반영될 수 있는 신규 기능 및 시나리오를 도출하는 것을 목적으로 합니다.
@@ -56,8 +56,6 @@
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/e9bbad96-310a-4c75-929e-b39f6805e958" width="300" /> | <img src="https://github.com/user-attachments/assets/a3135571-b4b7-453e-84cf-26e4a9a99a2e" width="300" /> | <img src="https://github.com/user-attachments/assets/c424d10b-9dbd-408d-820e-a8f028878661" width="300" /> |
 | *사용자 언급 빈도 기반 핵심 키워드* | *스타일러의 단점 키워드 연관성 분석 결과* | *모델별 키워드 점유율 비교* |
-
----
 
 <br>
 
